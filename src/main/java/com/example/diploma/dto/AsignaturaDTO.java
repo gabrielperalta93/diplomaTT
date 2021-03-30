@@ -1,4 +1,4 @@
-package com.example.diploma.dtos;
+package com.example.diploma.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

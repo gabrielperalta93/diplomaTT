@@ -1,8 +1,8 @@
 package com.example.diploma.services;
 
-import com.example.diploma.dtos.AlumnoDTO;
-import com.example.diploma.dtos.AsignaturaDTO;
-import com.example.diploma.dtos.DiplomaDTO;
+import com.example.diploma.dto.AlumnoDTO;
+import com.example.diploma.dto.AsignaturaDTO;
+import com.example.diploma.dto.DiplomaDTO;
 
 public class DiplomaService {
     public static DiplomaDTO generarDiploma(AlumnoDTO alumno){
